@@ -1,0 +1,27 @@
+{
+  "name": "converter-number-to-words-test-functionality",
+  "version": "1.0.0",
+  "description": "Test package",
+  "main": "script.js",
+  "scripts": {
+    "lint": "eslint script.js",
+    "lint:fix": "eslint script.js --fix",
+    "lint:init": "eslint --init",
+    "build": "npm run lint && echo \"App built\" && node script.js",
+    "start": "node script.js",
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": [
+    "test",
+    "demo"
+  ],
+  "author": "Gunel Mammadova",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.26.0",
+    "eslint-config-standard": "^16.0.2",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.3.1"
+  }
+}
