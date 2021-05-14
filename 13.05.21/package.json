@@ -1,0 +1,16 @@
+{
+  "name": "converter-number-to-word-functionality-gunmva",
+  "version": "1.0.0",
+  "description": "Test package",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js",
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": [
+    "test",
+    "demo"
+  ],
+  "author": "Gunel Memmedova",
+  "license": "ISC"
+}
